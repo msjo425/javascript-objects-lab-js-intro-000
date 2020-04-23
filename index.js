@@ -17,4 +17,4 @@ return newObj
 return object
 }
 
-function destructivelyDeleteFromObjectByKey
+function destructivelyDeleteFromObjectByKey(object,key)
